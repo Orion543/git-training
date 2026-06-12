@@ -1,0 +1,9 @@
+# 忽略暫存檔
+*.log
+temp/
+
+# 忽略 secret 目錄（包含密碼）
+secret/
+
+# 忽略系統檔案
+.DS_Store
